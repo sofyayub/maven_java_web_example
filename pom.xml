@@ -8,6 +8,9 @@
 	<packaging>war</packaging>
 
 	<properties>
+		<sonar.host.url>http://192.168.161.136:9000/</sonar.host.url>
+		<sonar.login>admin</sonar.login>
+		<sonar.password>admin</sonar.password>
 		<java-version>1.8</java-version>
 		<jackson.version>1.9.13</jackson.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
